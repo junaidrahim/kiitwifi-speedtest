@@ -1,3 +1,5 @@
+# script to scrape data.txt and convert it into data.json
+
 import json
 
 data = open("data.txt", "r")

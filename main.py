@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# this is the main script to run the speedtest every 5 minutes
+
 import subprocess
 from datetime import datetime
 import time
